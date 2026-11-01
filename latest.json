@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.9",
   "notes": "",
-  "apk": "",
-  "sha256": ""
+  "apk": "https://github.com/Sisableng/financial-tracker-public/releases/download/v1.0.9/app-1.0.9.apk",
+  "sha256": "415e54b5a0004e78fc14c39a410d7676fbb50a4ff3b9d2fc9be8ea00d295eab3"
 }
